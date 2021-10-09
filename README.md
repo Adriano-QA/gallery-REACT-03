@@ -1,6 +1,6 @@
 # Projeto realizado Desafio 5 Projetos em 5 Dias
 
-online: 
+online: https://galleryreact.netlify.app
 
 # Projeto - GALERIA DE FOTOS
 
